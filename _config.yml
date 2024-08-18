@@ -6,4 +6,4 @@ relative_links:
 include:
   - index.md
   - test.md
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
