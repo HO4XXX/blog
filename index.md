@@ -10,3 +10,5 @@ Try different styles
 ```
 some source code
 ```
+
+[link to test.md](./test.md)
